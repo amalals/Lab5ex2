@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string-array name="cities">
+        <item>Jeddah</item>
+        <item>Mecca</item>
+        <item>Dammam</item>
+
+    </string-array>
+</resources>
